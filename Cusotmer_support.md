@@ -202,7 +202,7 @@ After going through all these attempts, we think the challenge is designed with 
 The application is designed to look like it has weaknesses (missing passenger fields, a FLAG airport code, an exposed UUID) but all of these are essentially **traps**. Each path leads to a wall.
 
 
-## What We Would Try Next
+## What We Would Try Next(If I did not see the write-up from discord)
 
 If we had more time, the next things worth exploring would be:
 
